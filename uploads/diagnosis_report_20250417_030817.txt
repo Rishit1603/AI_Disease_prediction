@@ -1,0 +1,46 @@
+==================================================
+MEDICAL DIAGNOSIS REPORT
+==================================================
+
+Patient Information:
+--------------------
+Name: Rishit
+Date: 2025-04-17 03:08:17
+
+Reported Symptoms:
+--------------------
+fever, vomit, diarrhea
+
+Diagnosis:
+--------------------
+- Gastroenteritis (Stomach Flu) (Confidence: 0.68%)
+
+Medical Recommendations:
+--------------------
+[LOW] Low confidence prediction (<40%) - Continue monitoring symptoms
+[HOSPITAL] Treatments:
+  1. Rest
+  2. fluids (electrolyte solutions)
+  3. bland diet
+  4. avoiding irritating foods
+  5. over-the-counter medications for symptom relief
+
+[SYMPTOMS] Key Symptoms:
+  [ALERT] Nausea (Moderate Severity)
+  [ALERT] vomiting (Moderate Severity)
+  [ALERT] diarrhea (Moderate Severity)
+  [ALERT] abdominal pain or cramps (Moderate Severity)
+  [ALERT] fever (Moderate Severity)
+
+[MEDICAL] General Advice:
+  - Consult with a healthcare professional for proper diagnosis
+  - Monitor your symptoms regularly
+  - Get adequate rest and stay hydrated
+  - Follow up if symptoms worsen
+
+==================================================
+IMPORTANT DISCLAIMER:
+This is an AI-generated diagnosis report and should not be considered as a substitute
+for professional medical advice. Please consult with a healthcare provider for
+proper medical diagnosis and treatment.
+==================================================

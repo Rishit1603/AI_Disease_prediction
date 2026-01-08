@@ -1,0 +1,47 @@
+==================================================
+MEDICAL DIAGNOSIS REPORT
+==================================================
+
+Patient Information:
+--------------------
+Name: Patient1
+Date: 2025-04-20 01:00:12
+
+Reported Symptoms:
+--------------------
+cold, headache, coughing
+
+
+Diagnosis:
+--------------------
+- Cryptococcosis (Confidence: 0.46%)
+
+Medical Recommendations:
+--------------------
+[LOW] Low confidence prediction (<40%) - Continue monitoring symptoms
+[HOSPITAL] Treatments:
+  1. Antifungal medication (e.g.
+  2. Amphotericin B
+  3. Fluconazole)
+  4. supportive care
+
+[SYMPTOMS] Key Symptoms:
+  [ALERT] Headache (Moderate Severity)
+  [ALERT] fever (Moderate Severity)
+  [ALERT] fatigue (Moderate Severity)
+  [ALERT] cough (Moderate Severity)
+  [ALERT] meningitis (Moderate Severity)
+  [ALERT] pneumonia (Moderate Severity)
+
+[MEDICAL] General Advice:
+  - Consult with a healthcare professional for proper diagnosis
+  - Monitor your symptoms regularly
+  - Get adequate rest and stay hydrated
+  - Follow up if symptoms worsen
+
+==================================================
+IMPORTANT DISCLAIMER:
+This is an AI-generated diagnosis report and should not be considered as a substitute
+for professional medical advice. Please consult with a healthcare provider for
+proper medical diagnosis and treatment.
+==================================================

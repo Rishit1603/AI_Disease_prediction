@@ -1,0 +1,19 @@
+==================================================
+MEDICAL DIAGNOSIS REPORT
+==================================================
+
+Patient Information:
+--------------------
+Name: Rishit
+Date: 2025-04-17 02:41:26
+
+Reported Symptoms:
+--------------------
+fever, vomit, diarrhea
+
+Diagnosis:
+--------------------
+• Acute Pancreatitis (Confidence: 60.76%)
+
+Medical Recommendations:
+--------------------

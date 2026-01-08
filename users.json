@@ -1,0 +1,18 @@
+{
+    "Rishit": {
+        "password_hash": "aedc52eb654bc43479ebe02c59b12c66d02e64696d976f96aa3c1272c742d176",
+        "role": "patient"
+    },
+    "Harsh": {
+        "password_hash": "72f4be89d6ebab1496e21e38bcd7c8ca0a68928af3081ad7dff87e772eb350c2",
+        "role": "doctor"
+    },
+    "Patient1": {
+        "password_hash": "d3d7b232f030f5c1c3cbdbcdaf876630549bbd7ede675a5fb0f8b88685b41de4",
+        "role": "patient"
+    },
+    "Rishit1": {
+        "password_hash": "5b9456748badf1a02fecde9632c8ca8e4629ce1ae468a8188db2a6b3c1517217",
+        "role": "patient"
+    }
+}

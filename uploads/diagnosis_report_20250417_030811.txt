@@ -1,0 +1,49 @@
+==================================================
+MEDICAL DIAGNOSIS REPORT
+==================================================
+
+Patient Information:
+--------------------
+Name: Rishit
+Date: 2025-04-17 03:08:11
+
+Reported Symptoms:
+--------------------
+fever, vomit, diarrhea
+
+Diagnosis:
+--------------------
+- Acute Pancreatitis (Confidence: 60.76%)
+
+Medical Recommendations:
+--------------------
+[MODERATE] Moderate confidence prediction (40-70%) - Monitor symptoms closely
+[HOSPITAL] Treatments:
+  1. Hospitalization
+  2. intravenous fluids to restore hydration
+  3. pain management
+  4. bowel rest
+  5. nutritional support
+  6. medications to control pain and inflammation
+
+[SYMPTOMS] Key Symptoms:
+  [ALERT] Severe upper abdominal pain (Moderate Severity)
+  [ALERT] nausea (Moderate Severity)
+  [ALERT] vomiting (Moderate Severity)
+  [ALERT] fever (Moderate Severity)
+  [ALERT] rapid pulse (Moderate Severity)
+  [ALERT] swollen and tender abdomen (Moderate Severity)
+  [ALERT] jaundice (Moderate Severity)
+
+[MEDICAL] General Advice:
+  - Consult with a healthcare professional for proper diagnosis
+  - Monitor your symptoms regularly
+  - Get adequate rest and stay hydrated
+  - Follow up if symptoms worsen
+
+==================================================
+IMPORTANT DISCLAIMER:
+This is an AI-generated diagnosis report and should not be considered as a substitute
+for professional medical advice. Please consult with a healthcare provider for
+proper medical diagnosis and treatment.
+==================================================

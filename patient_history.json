@@ -1,0 +1,248 @@
+{
+    "Rishit": [
+        {
+            "date": "2025-04-16 14:42:52",
+            "symptoms": "fever, vomit, diarrhea",
+            "diagnosis": {
+                "Common Cold": 0.5410723558269308,
+                "Flu": 0.45892764417306925
+            }
+        },
+        {
+            "date": "2025-04-16 14:57:40",
+            "symptoms": "fever, diarrhea, vomit\n",
+            "diagnosis": {
+                "Common Cold": 0.5410723558269308,
+                "Flu": 0.45892764417306925
+            }
+        },
+        {
+            "date": "2025-04-16 15:45:26",
+            "symptoms": "fever, diarrhea, vomit",
+            "diagnosis": {
+                "Allergy": 0.1,
+                "AIDS": 0.07,
+                "Cervical spondylosis": 0.07,
+                "Paralysis (brain hemorrhage)": 0.07,
+                "Acne": 0.06,
+                "Dimorphic hemmorhoids(piles)": 0.06
+            }
+        },
+        {
+            "date": "2025-04-16 15:45:56",
+            "symptoms": "headache, fever, red eyes",
+            "diagnosis": {
+                "Paralysis (brain hemorrhage)": 0.26,
+                "Hypertension ": 0.1,
+                "Malaria": 0.06
+            }
+        },
+        {
+            "date": "2025-04-16 16:15:22",
+            "symptoms": "fever, headache, cough and cold\n",
+            "diagnosis": {
+                "Paralysis (brain hemorrhage)": 0.18,
+                "GERD": 0.14,
+                "Bronchial Asthma": 0.07,
+                "Hypertension ": 0.07,
+                "Malaria": 0.06
+            }
+        },
+        {
+            "date": "2025-04-16 16:15:40",
+            "symptoms": "cough, cold, headache\n",
+            "diagnosis": {
+                "Paralysis (brain hemorrhage)": 0.18,
+                "GERD": 0.14,
+                "Bronchial Asthma": 0.07,
+                "Hypertension ": 0.07,
+                "Malaria": 0.06
+            }
+        },
+        {
+            "date": "2025-04-16 16:15:45",
+            "symptoms": "cough, cold, headache\n",
+            "diagnosis": {
+                "Paralysis (brain hemorrhage)": 0.18,
+                "GERD": 0.14,
+                "Bronchial Asthma": 0.07,
+                "Hypertension ": 0.07,
+                "Malaria": 0.06
+            }
+        },
+        {
+            "date": "2025-04-16 16:28:06",
+            "symptoms": "fever, headache, red eyes",
+            "diagnosis": {
+                "Paralysis (brain hemorrhage)": 0.26,
+                "Hypertension ": 0.1,
+                "Malaria": 0.06
+            }
+        },
+        {
+            "date": "2025-04-16 16:45:17",
+            "symptoms": "headche, fever, red eyes",
+            "diagnosis": {
+                "Tuberculosis": 0.02786281617575609,
+                "Common Cold": 0.02759653415111775,
+                "Hypoglycemia": 0.02714727760300712
+            }
+        },
+        {
+            "date": "2025-04-16 16:45:31",
+            "symptoms": "cough, cold, fever",
+            "diagnosis": {
+                "Bronchial Asthma": 0.5084184035534782
+            }
+        },
+        {
+            "date": "2025-04-16 17:25:27",
+            "symptoms": "fever, headache, red eyes",
+            "diagnosis": {}
+        },
+        {
+            "date": "2025-04-16 17:25:50",
+            "symptoms": "fever, cough, throat pain",
+            "diagnosis": {}
+        },
+        {
+            "date": "2025-04-16 17:30:15",
+            "symptoms": "fever, cough, throat pain",
+            "diagnosis": {}
+        },
+        {
+            "date": "2025-04-16 17:34:16",
+            "symptoms": "fever, cough, throat pain",
+            "diagnosis": {
+                "AIDS": 0.6066823635585008
+            }
+        },
+        {
+            "date": "2025-04-16 18:47:31",
+            "symptoms": "fever, cough, throat pain",
+            "diagnosis": {
+                "AIDS": 0.6871809627870613
+            }
+        },
+        {
+            "date": "2025-04-16 18:51:24",
+            "symptoms": "fever, cough and throat pain",
+            "diagnosis": {
+                "Common Cold": 0.03917626989261328,
+                "Tuberculosis": 0.03893384199410399,
+                "Dengue": 0.03671798008800764
+            }
+        },
+        {
+            "date": "2025-04-16 19:15:07",
+            "symptoms": "fever, diarrhea, vomit",
+            "diagnosis": {
+                "Tuberculosis": 0.03971396506551184,
+                "Common Cold": 0.039349301203103926,
+                "Hepatitis E": 0.03857499910460516
+            }
+        },
+        {
+            "date": "2025-04-17 00:17:29",
+            "symptoms": " nervousness, short of breath ",
+            "diagnosis": {
+                "Common Cold": 0.038819373134579706,
+                "Tuberculosis": 0.037883377578376023,
+                "Heart attack": 0.036532985560930084
+            }
+        },
+        {
+            "date": "2025-04-17 00:17:35",
+            "symptoms": " nervousness, short of breath ",
+            "diagnosis": {
+                "Common Cold": 0.038819373134579706,
+                "Tuberculosis": 0.037883377578376023,
+                "Heart attack": 0.036532985560930084
+            }
+        },
+        {
+            "date": "2025-04-17 00:46:47",
+            "symptoms": "fever, headache, cough\n",
+            "diagnosis": {}
+        },
+        {
+            "date": "2025-04-17 00:56:48",
+            "symptoms": "fever, cough, headache",
+            "diagnosis": {}
+        },
+        {
+            "date": "2025-04-17 01:12:46",
+            "symptoms": "fever, cough, headache",
+            "diagnosis": {
+                "Cryptococcosis": 0.6087138259635454
+            }
+        },
+        {
+            "date": "2025-04-17 01:13:51",
+            "symptoms": "fever, stomach ache, vomiting, diarrhea",
+            "diagnosis": {
+                "Gastroenteritis (Stomach Flu)": 0.6052451631976418
+            }
+        },
+        {
+            "date": "2025-04-17 01:38:12",
+            "symptoms": "fever, vomit, diarrhea",
+            "diagnosis": {
+                "Volvulus": 0.6053519535331469
+            }
+        },
+        {
+            "date": "2025-04-17 02:14:34",
+            "symptoms": "fever, diarrhea, vomit",
+            "diagnosis": {
+                "Acute Pancreatitis": 0.6075605562234068,
+                "Gastroenteritis (Stomach Flu)": 0.006828367536086358
+            }
+        },
+        {
+            "date": "2025-04-17 02:16:35",
+            "symptoms": "fever, diarrhea, vomit",
+            "diagnosis": {
+                "Acute Pancreatitis": 0.6075605562234068,
+                "Gastroenteritis (Stomach Flu)": 0.006828367536086358
+            }
+        },
+        {
+            "date": "2025-04-17 02:16:57",
+            "symptoms": "fever, diarrhea, vomit",
+            "diagnosis": {
+                "Acute Pancreatitis": 0.6075605562234068,
+                "Gastroenteritis (Stomach Flu)": 0.006828367536086358
+            }
+        }
+    ],
+    "Patient1": [
+        {
+            "date": "2025-04-20 00:59:56",
+            "symptoms": "cold, headache, coughing\n",
+            "diagnosis": {
+                "Cryptococcosis": 0.004640657964235627
+            },
+            "recommendations": [
+                "\ud83d\udfe2 Low confidence prediction (<40%) - Continue monitoring symptoms",
+                "\ud83c\udfe5 Treatments:",
+                "  1. Antifungal medication (e.g.",
+                "  2. Amphotericin B",
+                "  3. Fluconazole)",
+                "  4. supportive care",
+                "\n\ud83d\udd0d Key Symptoms:",
+                "  \u26a1 Headache (Moderate Severity)",
+                "  \u26a1 fever (Moderate Severity)",
+                "  \u26a1 fatigue (Moderate Severity)",
+                "  \u26a1 cough (Moderate Severity)",
+                "  \u26a1 meningitis (Moderate Severity)",
+                "  \u26a1 pneumonia (Moderate Severity)",
+                "\n\u2695\ufe0f General Advice:",
+                "  \u2022 Consult with a healthcare professional for proper diagnosis",
+                "  \u2022 Monitor your symptoms regularly",
+                "  \u2022 Get adequate rest and stay hydrated",
+                "  \u2022 Follow up if symptoms worsen"
+            ]
+        }
+    ]
+}

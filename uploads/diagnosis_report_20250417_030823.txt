@@ -1,0 +1,53 @@
+==================================================
+MEDICAL DIAGNOSIS REPORT
+==================================================
+
+Patient Information:
+--------------------
+Name: Rishit
+Date: 2025-04-17 03:08:23
+
+Reported Symptoms:
+--------------------
+fever, vomit, diarrhea
+
+Diagnosis:
+--------------------
+- Drug Withdrawal (Confidence: 0.56%)
+
+Medical Recommendations:
+--------------------
+[LOW] Low confidence prediction (<40%) - Continue monitoring symptoms
+[HOSPITAL] Treatments:
+  1. Gradual tapering of the drug under medical supervision
+  2. medications to manage withdrawal symptoms (such as benzodiazepines
+  3. clonidine
+  4. or buprenorphine)
+  5. behavioral therapy
+  6. support groups
+  7. counseling
+  8. rehabilitation programs
+
+[SYMPTOMS] Key Symptoms:
+  [ALERT] Anxiety (Moderate Severity)
+  [ALERT] restlessness (Moderate Severity)
+  [ALERT] irritability (Moderate Severity)
+  [ALERT] tremors (Moderate Severity)
+  [ALERT] sweating (Moderate Severity)
+  [ALERT] nausea (Moderate Severity)
+  [ALERT] vomiting (Moderate Severity)
+  [ALERT] insomnia (Moderate Severity)
+  [ALERT] drug cravings (Moderate Severity)
+
+[MEDICAL] General Advice:
+  - Consult with a healthcare professional for proper diagnosis
+  - Monitor your symptoms regularly
+  - Get adequate rest and stay hydrated
+  - Follow up if symptoms worsen
+
+==================================================
+IMPORTANT DISCLAIMER:
+This is an AI-generated diagnosis report and should not be considered as a substitute
+for professional medical advice. Please consult with a healthcare provider for
+proper medical diagnosis and treatment.
+==================================================

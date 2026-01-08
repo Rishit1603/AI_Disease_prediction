@@ -1,0 +1,46 @@
+==================================================
+MEDICAL DIAGNOSIS REPORT
+==================================================
+
+Patient Information:
+--------------------
+Name: Rishit1
+Date: 2025-11-12 17:58:42
+
+Reported Symptoms:
+--------------------
+fever, cold
+
+Diagnosis:
+--------------------
+- Cryptococcosis (Confidence: 60.38%)
+
+Medical Recommendations:
+--------------------
+[MODERATE] Moderate confidence prediction (40-70%) - Monitor symptoms closely
+[HOSPITAL] Treatments:
+  1. Antifungal medication (e.g.
+  2. Amphotericin B
+  3. Fluconazole)
+  4. supportive care
+
+[SYMPTOMS] Key Symptoms:
+  [ALERT] Headache (Moderate Severity)
+  [ALERT] fever (Moderate Severity)
+  [ALERT] fatigue (Moderate Severity)
+  [ALERT] cough (Moderate Severity)
+  [ALERT] meningitis (Moderate Severity)
+  [ALERT] pneumonia (Moderate Severity)
+
+[MEDICAL] General Advice:
+  - Consult with a healthcare professional for proper diagnosis
+  - Monitor your symptoms regularly
+  - Get adequate rest and stay hydrated
+  - Follow up if symptoms worsen
+
+==================================================
+IMPORTANT DISCLAIMER:
+This is an AI-generated diagnosis report and should not be considered as a substitute
+for professional medical advice. Please consult with a healthcare provider for
+proper medical diagnosis and treatment.
+==================================================

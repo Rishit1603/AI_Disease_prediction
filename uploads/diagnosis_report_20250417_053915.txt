@@ -1,0 +1,46 @@
+==================================================
+MEDICAL DIAGNOSIS REPORT
+==================================================
+
+Patient Information:
+--------------------
+Name: Rishit
+Date: 2025-04-17 05:39:15
+
+Reported Symptoms:
+--------------------
+fever, cold, cough
+
+Diagnosis:
+--------------------
+- Influenza (Flu) (Confidence: 0.62%)
+
+Medical Recommendations:
+--------------------
+[LOW] Low confidence prediction (<40%) - Continue monitoring symptoms
+[HOSPITAL] Treatments:
+  1. Rest
+  2. fluids
+  3. over-the-counter medications for symptom relief
+  4. antiviral medications (in some cases)
+
+[SYMPTOMS] Key Symptoms:
+  [ALERT] High fever (Moderate Severity)
+  [ALERT] body aches (Moderate Severity)
+  [ALERT] fatigue (Moderate Severity)
+  [ALERT] cough (Moderate Severity)
+  [ALERT] sore throat (Moderate Severity)
+  [ALERT] congestion (Moderate Severity)
+
+[MEDICAL] General Advice:
+  - Consult with a healthcare professional for proper diagnosis
+  - Monitor your symptoms regularly
+  - Get adequate rest and stay hydrated
+  - Follow up if symptoms worsen
+
+==================================================
+IMPORTANT DISCLAIMER:
+This is an AI-generated diagnosis report and should not be considered as a substitute
+for professional medical advice. Please consult with a healthcare provider for
+proper medical diagnosis and treatment.
+==================================================
